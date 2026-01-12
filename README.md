@@ -69,10 +69,10 @@ This internship provided comprehensive hands-on exposure to industrial automatio
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;&gt;</p>
 
 
-<p><em>(You can add more projects as needed)</em></p>
+<p><em></em></p>
 
 </div>
 
@@ -82,28 +82,11 @@ This internship provided comprehensive hands-on exposure to industrial automatio
   The project leverages real-time control and vision-assisted alignment to enhance soldering accuracy, operational efficiency, and repeatability in micro-electronics assembly tasks. The ESP32 provides reliable processing and control, while the VC02 camera supports visual feedback for precise targeting, and the MG995 servos ensure stable, smooth, and responsive arm motion. The system is designed for industrial and laboratory environments where precision, consistency, and automation are critical. Performance evaluation demonstrates stable operation, smooth motion control, accurate solder placement, and efficient task execution, validating the system’s suitability for automated micro-soldering applications in modern industrial settings.
 </p>
 <p>
-  <a href="(https://github.com/NandakishoreP58/Autonomous-Micro-Soldering-Robotic-Arm/blob/main/AMSRA_SURE%20Trust_project_document.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/NandakishoreP58/Autonomous-Micro-Soldering-Robotic-Arm/blob/main/AMSRA_SURE%20Trust_project_document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
+
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -137,7 +120,7 @@ I thoroughly enjoyed the community service activities and found them very meanin
 
 ### **Activities Involved**
 The assigned activity was not carried out due to health-related issues and was subsequently replaced with other approved community service activities.
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+- **Blood Donation** – Not Carried Out Due to Health Issues.
   
  Calicut, Keralam
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
@@ -166,8 +149,7 @@ Enhanced skills in communication, coordination, and social responsibility throug
 
 <div align="center">
 <img src="https://github.com/NandakishoreP58/Autonomous-Micro-Soldering-Robotic-Arm/blob/main/IMAGES%20AMSRA/cc5d7ac5-cb8c-49df-8542-cff8bfb914d6.jpg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/NandakishoreP58/Autonomous-Micro-Soldering-Robotic-Arm/blob/main/IMAGES%20AMSRA/ce2eccfa-d41d-40ec-846e-5836ffb64049.jpg" alt="Community Service Photo 2" width="30%">
 </div>
 
 ---
@@ -189,4 +171,6 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Mr. Kumar Shubhashis](https://www.linkedin.com/in/kumar-shubhashis-a2311720/) , Senior Manager Design & Project Planning/Maintenance Planning - [TATA Motors](https://www.tatamotors.com/)
+
 
