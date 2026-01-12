@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Nandakishore P </p>
+    <p><strong>Email ID:</strong> kishorenanda355@gmail.com </p>
+    <p><strong>College Name:</strong> Manakula Vinayagar Institute of Technology </p>
+    <p><strong>Branch/Specialization :</strong> Robotics and Automation </p>
+    <p><strong>College ID:</strong> 22TRL002 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Industrial Automation </p>
+    <p><strong>Instructor Name:</strong> Mr. Kumar Shubhashis </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> Six Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mr. Kumar Shubhashis</p>
+<p><strong>Trainer Email ID:</strong> kumarshubhashis@yahoo.co.in</p>
+<p><strong>Trainer Designation:</strong> Senior Manager Design & Project Planning/Maintenance Planning - TATA Motors</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,10 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+This internship provided comprehensive hands-on exposure to industrial automation by strengthening skills in microcontroller-based control systems, servo motor interfacing, temperature regulation, sensor integration, and real-time feedback mechanisms. Practical experience in motion planning, kinematics, and system reliability enhanced the understanding of precision automation and fault-tolerant design. The project also reinforced the importance of modular, maintainable system architectures aligned with industrial standards. In addition to technical growth, the internship improved professional competencies such as industrial documentation, structured problem-solving, time management, and milestone-based project execution, effectively bridging theoretical knowledge with real-world automation engineering practices.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
@@ -74,22 +71,18 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 <p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Autonomous Micro Soldering Robotic Arm </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  The project leverages real-time control and vision-assisted alignment to enhance soldering accuracy, operational efficiency, and repeatability in micro-electronics assembly tasks. The ESP32 provides reliable processing and control, while the VC02 camera supports visual feedback for precise targeting, and the MG995 servos ensure stable, smooth, and responsive arm motion. The system is designed for industrial and laboratory environments where precision, consistency, and automation are critical. Performance evaluation demonstrates stable operation, smooth motion control, accurate solder placement, and efficient task execution, validating the system’s suitability for automated micro-soldering applications in modern industrial settings.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="(https://github.com/NandakishoreP58/Autonomous-Micro-Soldering-Robotic-Arm/blob/main/AMSRA_SURE%20Trust_project_document.pdf)" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
@@ -117,7 +110,15 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
+olton, W., Programmable Logic Controllers and Industrial Automation: An Introduction, 4th Edition, Elsevier, 2015.
+
+Groover, M. P., Automation, Production Systems, and Computer-Integrated Manufacturing, 4th Edition, Pearson Education, 2016.
+
+Monk, S., Programming ESP32 with Arduino IDE, McGraw-Hill Education, 2021.
+
+Spong, M. W., Hutchinson, S., & Vidyasagar, M., Robot Modeling and Control, Wiley, 2006.
+
+Craig, J. J., Introduction to Robotics: Mechanics and Control, 3rd Edition, Pearson Education, 2004.
 <!--you can add refrences over here in same syntax as above -->
 ---
 
@@ -125,34 +126,36 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
+The last communication and professional attitude session was conducted effectively and was highly informative. The mentors, especially Mr. Pramod Sir, explained every concept clearly and patiently, making the session easy to understand and engaging. The ice-breaking activities were interactive and helped create a positive learning environment. The final session also went very well, providing valuable insights into social awareness and health-related issues, including problem identification and practical understanding. Overall, the sessions were well-organized, educational, and beneficial, contributing positively to both personal and professional development.
 ---
 
 ## **Community Services**
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+I thoroughly enjoyed the community service activities and found them very meaningful. As part of the service, I planted four trees, including mango, gooseberry, and jackfruit, contributing to environmental sustainability. In addition, I participated in a government initiative to distribute health kits to elderly people in our locality under the Kudumbashree initiative of the Government of Kerala. These activities helped me develop social responsibility, environmental awareness, and a deeper understanding of community welfare programs.<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
+The assigned activity was not carried out due to health-related issues and was subsequently replaced with other approved community service activities.
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+ Calicut, Keralam
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+  Calicut, Keralam
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+Contributed to a supportive environment during community health initiatives in our locality.
+
+Actively participated in promoting a greener and cleaner environment by planting trees such as mango, gooseberry, and jackfruit.
+
+Assisted elderly citizens by distributing health kits under the Kudumbashree initiative, Government of Kerala, strengthening community bonds.
+
+Enhanced skills in communication, coordination, and social responsibility through active participation in community service activities.
 
 ### **Photos**
 
